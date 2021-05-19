@@ -1,2 +1,2 @@
 # sklearn-
-Implementattion of different modules!!
+Implementation of different modules!!
